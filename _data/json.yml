@@ -1,38 +1,39 @@
 - key: Name
-  value: Place Holder
-- key: Description
+  value: huzeyfe burak arslan
+- key: description
   value:
-    - Hello!
-    - This tiny website
-    - Looks like JSON
+    - welcome!
+    - enjoy:)
   typed: true
-- key: CV
+- key: cv
   value: cv.pdf
   url: /cv.pdf
-- key: Address
+- key: address
   value:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
-- key: Contact
+    - istanbul technical university
+    - golet dorm
+    - 4th block, istanbul/turkiye
+- key: contact
   value:
-    - key: Office
-      value: Foobar Hall 1.23
-    - key: Phone
-      value: +1 234 567 890
-    - key: Email
-      value: username@domain.com
-      url: "mailto:username@domain.com"
-- key: Source
+    - key: office
+      value: sultan selim, eski buyukdere street no 61, 34415 kagıthane/istanbul, turkiye
+    - key: phone
+      value: +90 506 141 59 99
+    - key: email
+      value:
+        - key: personal
+          value: hburakarslan38@gmail.com
+          url: "mailto:hburakarslan38@gmail.com"
+        - key: 
+          value: burak.arslan@visionbase.co.uk
+          url: "mailto:burak.arslan@visionbase.co.uk"
+
+- key: profiles
+  value:
+    - value: linkedIn
+      url: https://www.linkedin.com
+    - value: github
+      url: https://github.com
+- key: source
   value: piazzai/hacked-jekyll
   url: https://github.com/piazzai/hacked-jekyll
-- key: Profiles
-  value:
-    - value: Instagram
-      url: https://www.instagram.com
-    - value: LinkedIn
-      url: https://www.linkedin.com
-    - value: StackOverflow
-      url: https://stackoverflow.com
-    - value: GitHub
-      url: https://github.com
