@@ -5,9 +5,16 @@
     - welcome!
     - enjoy:)
   typed: true
-- key: cv
-  value: cv.pdf
-  url: /cv.pdf
+- key: experience
+  value: matek (2023 - current)
+    - full stack .NET developer
+  value: datablast (2022)
+    - software intern
+
+- key: education
+  value: istanbul technical university (2020 - currrent)
+    - artificial intelligence and data engineering
+  
 - key: address
   value:
     - istanbul technical university
@@ -15,25 +22,17 @@
     - 4th block, istanbul/turkiye
 - key: contact
   value:
-    - key: office
-      value: sultan selim, eski buyukdere street no 61, 34415 kagıthane/istanbul, turkiye
     - key: phone
       value: +90 506 141 59 99
     - key: email
-      value:
-        - key: personal
-          value: hburakarslan38@gmail.com
-          url: "mailto:hburakarslan38@gmail.com"
-        - key: 
-          value: burak.arslan@visionbase.co.uk
-          url: "mailto:burak.arslan@visionbase.co.uk"
+      value: hburakarslan38@gmail.com
+      url: "mailto:hburakarslan38@gmail.com"
 
 - key: profiles
   value:
     - value: linkedIn
-      url: https://www.linkedin.com
+      url: https://tr.linkedin.com/in/burak-arslan-513a08173
     - value: github
-      url: https://github.com
-- key: source
-  value: piazzai/hacked-jekyll
-  url: https://github.com/piazzai/hacked-jekyll
+      url: https://github.com/arslan38
+    - value: kaggle
+      url: https://www.kaggle.com/burakarslan38
