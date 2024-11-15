@@ -6,14 +6,13 @@
     - enjoy:)
   typed: true
 - key: experience
-  value: matek (2023 - current)
-    - full stack .NET developer
-  value: datablast (2022)
-    - software intern
+  value: 
+    - matek - full stack .NET developer (2023 - current)
+    - datablast - software intern(2022)
 
 - key: education
-  value: istanbul technical university (2020 - currrent)
-    - artificial intelligence and data engineering
+  value: 
+    - itu ai and data engineering (2020 - currrent)
   
 - key: address
   value:
